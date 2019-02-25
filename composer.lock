@@ -25,7 +25,6 @@
                 "php": ">=7.0.0"
             },
             "require-dev": {
-                "mikey179/vfsstream": "1.1.*"
             },
             "type": "project",
             "notification-url": "https://packagist.org/downloads/",
